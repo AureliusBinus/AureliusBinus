@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aurelius @binus
+- 👋 Hi, I’m Aurelius @BinaNusantara
 - 👀 I’m interested in tinkering stuff and planning to create my own Computer
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on computer modding or retro mods or making custom bios 
