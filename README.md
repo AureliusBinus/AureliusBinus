@@ -2,9 +2,10 @@
 <h3 align="center">A BINUS Collage Student from Indonesia</h3>
 
 - 👀 I’m interested in tinkering stuff and planning to create my own Computer
+<!-- - 💞️ I’m looking to collaborate on computer modding or retro mods or making custom bios -->
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on computer modding or retro mods or making custom bios 
 - 📫 How to reach me **elvin.yamin@binus.ac.id**
+
 
 <p align="left">
 </p>
