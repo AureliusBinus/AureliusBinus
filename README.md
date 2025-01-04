@@ -6,20 +6,10 @@
 - 📫 How to reach me **elvin.yamin@binus.ac.id**
 - 💞️ I’m looking to collaborate on **hardware or software modding**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aureliusgemini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aureliusgemini" height="30" width="40" /></a>
-<a href="/https://myanimelist.net/rss.php?type=rw&u=aureliusgemini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://myanimelist.net/rss.php?type=rw&u=aureliusgemini" height="30" width="40" /></a>
+
+<h3 align="center">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aureliusbinus&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&locale=en&layout=compact" alt="aureliusbinus" /></p>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/aureliusgemini"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aureliusgemini" /></a></p><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aureliusgemini&label=Profile%20views&color=ff0000&style=flat" alt="aureliusgemini" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -33,5 +23,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/aureliusgemini"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aureliusgemini" /></a></p><br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliusbinus" alt="aureliusbinus" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/aureliusgemini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aureliusgemini" height="30" width="40" /></a>
+  <a href="/https://myanimelist.net/rss.php?type=rw&u=aureliusgemini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://myanimelist.net/rss.php?type=rw&u=aureliusgemini" height="30" width="40" /></a>
+</p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliusbinus" alt="aureliusbinus" /></a> </p>
