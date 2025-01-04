@@ -30,10 +30,4 @@
   <a href="https://ko-fi.com/aureliusgemini"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AureliusGemini Ko-Fi" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="/https://myanimelist.net/rss.php?type=rw&u=aureliusgemini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://myanimelist.net/rss.php?type=rw&u=aureliusgemini" height="30" width="40" /></a>
-</p>
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliusbinus" alt="aureliusbinus" /></a> </p>
